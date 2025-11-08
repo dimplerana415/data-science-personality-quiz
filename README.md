@@ -60,12 +60,12 @@ It includes:
 
 2. Make sure you have the required libraries installed:
 
-pip install streamlit pandas scikit-learn matplotlib
+  pip install streamlit pandas scikit-learn matplotlib
 
 
 3. Run the app using:
 
-streamlit run app.py
+  streamlit run app.py
 
 
 4. The app will open automatically in your browser.
@@ -75,7 +75,8 @@ streamlit run app.py
 # 📂 Project Structure
 
 📁 data_science_personality_quiz
-│
+
+
 ├── app.py                                     # Main Streamlit app file  
 ├── train_model.py                          # Script for training and saving the model  
 ├── personality_quiz_training_data.csv         # Quiz data used for model training  
