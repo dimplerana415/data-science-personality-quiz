@@ -49,7 +49,32 @@ It includes:
 
 * Matplotlib – for dashboard visualization
 
+---
 
+# 🖼 App Preview
+
+Here's how the app looks when you launch it:
+<p align="center">
+  <img src="images/Preview.png" alt="Home Page" width="400"/>
+</p>
+
+---
+
+# ⭐ Personlaity Result example
+
+After completing the quiz, you get a personalized result with a description:
+<p align="center">
+  <img src="images/Result.png" alt="Result Page" width="400"/>
+</p>
+
+---
+
+# 📊 Summary Dashboard
+
+All quiz results are summarized in a pie chart to visualize personality distribution:
+<p align="center">
+  <img src="images/Summary%20Dashboard.png" alt="Summary Dashboard" width="400"/>
+</p>
 
 ---
 
