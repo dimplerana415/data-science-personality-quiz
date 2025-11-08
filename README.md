@@ -82,6 +82,7 @@ It includes:
 ├── personality_quiz_training_data.csv         # Quiz data used for model training  
 ├── results.csv                                # Stores quiz responses and results  
 ├── requirements.txt                           # Required tools to run the quiz
+
 ├── model.pkl                                  # Trained machine learning model                            
 └── README.md                                  # This file
 
