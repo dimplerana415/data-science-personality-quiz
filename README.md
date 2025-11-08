@@ -55,7 +55,7 @@ It includes:
 
 Here's how the app looks when you launch it:
 <p align="center">
-  <img src="images/Preview.png" alt="Home Page" width="400"/>
+  <img src="images/Preview.png" alt="Home Page" width="600"/>
 </p>
 
 ---
@@ -64,7 +64,7 @@ Here's how the app looks when you launch it:
 
 After completing the quiz, you get a personalized result with a description:
 <p align="center">
-  <img src="images/Result.png" alt="Result Page" width="400"/>
+  <img src="images/Result.png" alt="Result Page" width="600"/>
 </p>
 
 ---
@@ -73,7 +73,7 @@ After completing the quiz, you get a personalized result with a description:
 
 All quiz results are summarized in a pie chart to visualize personality distribution:
 <p align="center">
-  <img src="images/Summary%20Dashboard.png" alt="Summary Dashboard" width="400"/>
+  <img src="images/Summary%20dashboard.png" alt="Summary Dashboard" width="600"/>
 </p>
 
 ---
