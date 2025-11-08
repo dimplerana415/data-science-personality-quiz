@@ -78,9 +78,10 @@ It includes:
 
 
 ├── app.py                                     # Main Streamlit app file  
-├── train_model.py                          # Script for training and saving the model  
+├── train_model.py                             # Script for training and saving the model  
 ├── personality_quiz_training_data.csv         # Quiz data used for model training  
 ├── results.csv                                # Stores quiz responses and results  
+├── requirements.txt                           # Required tools to run the quiz
 ├── model.pkl                                  # Trained machine learning model                            
 └── README.md                                  # This file
 
